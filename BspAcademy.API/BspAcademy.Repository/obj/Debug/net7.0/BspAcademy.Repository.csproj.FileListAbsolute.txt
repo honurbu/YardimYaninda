@@ -1,0 +1,17 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Repository.deps.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Repository.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.csproj.CopyComplete
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\refint\BspAcademy.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\ref\BspAcademy.Repository.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\bin\Debug\net7.0\BspAcademy.Repository.runtimeconfig.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Repository\obj\Debug\net7.0\BspAcademy.Repository.genruntimeconfig.cache

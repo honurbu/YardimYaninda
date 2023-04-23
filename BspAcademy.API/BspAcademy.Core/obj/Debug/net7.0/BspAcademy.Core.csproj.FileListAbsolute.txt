@@ -1,0 +1,12 @@
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\bin\Debug\net7.0\BspAcademy.Core.deps.json
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\bin\Debug\net7.0\BspAcademy.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\bin\Debug\net7.0\BspAcademy.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.csproj.AssemblyReference.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.AssemblyInfoInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.AssemblyInfo.cs
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.csproj.CoreCompileInputs.cache
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\refint\BspAcademy.Core.dll
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\BspAcademy.Core.pdb
+C:\Users\Onur\Desktop\Windows Form Projelerim\BspAcademy.API\BspAcademy.Core\obj\Debug\net7.0\ref\BspAcademy.Core.dll
