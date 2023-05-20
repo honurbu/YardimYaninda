@@ -28,10 +28,17 @@ namespace BspAcademy.APIs.Controllers
         [HttpGet("{categoryid}/{cityid}")]
         public async Task<IActionResult> GetList(int categoryid, int cityid)
         {
-            var values = await _aidNoticeService.GetListAidNoticeWithCityCategory(categoryid,cityid );
+            var values = await _aidNoticeService.GetListAidNoticeWithCityCategory(categoryid, cityid);
             return Ok(values);
         }
 
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var values = await _aidNoticeService.GetByIdAsync(id);
+            return Ok(values);
+        }
 
         [HttpPost]
         public async Task<IActionResult> AddAidNotice(AidNoticeAddDto aidNoticeDto)
@@ -50,7 +57,6 @@ namespace BspAcademy.APIs.Controllers
             var values = await _aidNoticeService.GetAidNoticeWithCityCategory();
             return Ok(values);
         }
-
 
     }
 }
